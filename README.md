@@ -10,7 +10,9 @@
 > This is classified information.
 
 📍 **Location:** Budapest, Hungary  :hungary:
+
 📧 **Email:** [acuadrosr18@gmail.com](mailto:acuadrosr18@gmail.com)  
+
 🔗 **LinkedIn:** [Alejandra Cuadros Rivas](https://www.linkedin.com/in/acuadrosr/)
 
 + I’m Alejandra :alien:, a Peruvian :peru: Industrial Engineer and Computer Science Master’s candidate at Budapest University of Technology and Economics.

@@ -1,7 +1,7 @@
 # CFG-Assignments by Alejandra Cuadros Rivas
 
 > [!TIP]
-> You can find [HERE](https://github.com/acuadrosr18/CFG-Assignments/blob/bd28e2d202d22027b1883b541b6359609c979c70/Documentation%20Git%20and%20GitHub.pdf)) the Documentation required for this Assignment #1.
+> You can find [HERE](https://github.com/acuadrosr18/CFG-Assignments/blob/bd28e2d202d22027b1883b541b6359609c979c70/Documentation%20Git%20and%20GitHub.pdf) the Documentation required for this Assignment #1.
 
 ## About Me
 **Hola! Hello! Szia! Salut! Ciao**!

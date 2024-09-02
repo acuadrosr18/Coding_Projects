@@ -1,0 +1,6 @@
+# Ignore all the excel files
+*.xlsx
+
+# Ignore files  
+
+Screenshot.png

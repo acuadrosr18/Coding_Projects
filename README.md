@@ -1,7 +1,7 @@
 # CFG-Assignments by Alejandra Cuadros Rivas
 
 > [!TIP]
-> You can find [HERE](Assignment 1) the Documentation required for this Assignment #1.
+> You can find [HERE](Assignment_1) the Documentation required for this Assignment #1.
 
 ## About Me
 **Hola! Hello! Szia! Salut! Ciao**!

@@ -1,7 +1,18 @@
 # CFG-Assignments by Alejandra Cuadros Rivas
 
+## Assignments in this Repository
+
+### Assignment 1: Git and Github
 > [!TIP]
 > You can find [HERE](Assignment_1) the Documentation required for this Assignment #1.
+
+### Assignment 2: Trivia Game Program
+This project is a console-based trivia game that interacts with the Open Trivia Database API. 
+The game allows users to select a category, difficulty level, and number of questions, then answers trivia questions with immediate feedback. 
+The program tracks how long it takes to answer each question and saves the final score and total time taken to a file for future reference.
+
+You can find [HERE](Assignment_2) the Documentation required for this Assignment #2.
+
 
 ## About Me
 **Hola! Hello! Szia! Salut! Ciao**!

@@ -13,6 +13,11 @@ The program tracks how long it takes to answer each question and saves the final
 
 You can find [HERE](Assignment_2) the Documentation required for this Assignment #2.
 
+### Assignment 3: Data and MySQL
+This project is a database management system for an e-commerce store called HumanTechnologyMart. It tracks products, suppliers, and customer transactions. The system automatically updates product stock after each purchase, connects products to their suppliers for easy restocking, and records detailed sales transactions. It includes built-in queries for generating sales reports and a stored procedure to handle transactions and stock management. The database ensures accurate inventory tracking, customer order processing, and real-time stock updates.
+
+You can find [HERE](Assignment_3) the Documentation required for this Assignment #3.
+
 
 ## About Me
 **Hola! Hello! Szia! Salut! Ciao**!

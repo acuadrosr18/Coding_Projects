@@ -15,10 +15,6 @@ PotionCraft helps you manage your potion inventory, keep track of ingredients, a
 ### **Steps**
 
 1. **Clone the Repository**
-   ```sh
-   git clone <repository-url-xxx>
-   cd PotionCraft
-   ```
 
 2. **Install Dependencies**
    ```sh

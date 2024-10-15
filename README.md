@@ -18,6 +18,11 @@ This project is a database management system for an e-commerce store called Huma
 
 You can find [HERE](Assignment_3) the Documentation required for this Assignment #3.
 
+### Assignment 4: Build your own API
+PotionCraft is an API for managing magical potions, ingredients, and customer orders. It allows users to view available potions, ingredients, place orders, and manage inventory, all via a Flask-based API and an interactive console application.
+
+You can find [HERE](Assignment_4) the Documentation required for this Assignment #4.
+
 
 ## About Me
 **Hola! Hello! Szia! Salut! Ciao**!

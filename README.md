@@ -1,4 +1,4 @@
-# CFG-Assignments by Alejandra Cuadros Rivas
+# Coding Projects by Alejandra Cuadros Rivas
 
 ## Assignments in this Repository
 
@@ -71,7 +71,7 @@ Here are some of the projects I have worked on, which reflect my ability to anal
 
 For this Git and GitHub assignment, I will demonstrate my excellent use of GitHub features to manage and present my work effectively.
 - My goals include:
-    - **Repository Setup:** *Create* a private repository named `CFG-Assignments` to host the work and documentation for the <sup> Assignment 1. </sup>
+
     - **README Creation and Formatting:** *Utilize* a variety of Markdown formatting features. ~~this is a mistake i wanna delete~~
     - **Branch Management:** *Show* how to manage branches via <sub>pull requests.</sub>
     - **Pull Requests and Reviews:** *Demonstrate* collaborative features of GitHub such as  <sub>pull requests</sub> and  <sub>code reviews.</sub>
